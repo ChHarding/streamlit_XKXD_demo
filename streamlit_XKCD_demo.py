@@ -2,6 +2,7 @@ import streamlit as st
 import requests
 import bs4
 import random
+import plotly.graph_objects as go
 
 # streamlit run streamlit_app_example2.py
 
